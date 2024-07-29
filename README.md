@@ -53,3 +53,4 @@ git remote remove origin
 - база данных(sqlite) не должна попасть на github
 
 Завершенный код бота нужно загрузить на Github, в отдельный(Ваш, не мой) репозиторий и ссылку скинуть в google forms.
+# FINALTEST
