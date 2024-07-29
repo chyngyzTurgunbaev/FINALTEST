@@ -10,8 +10,8 @@
 Склонировать этот репозиторий можно при помощи следующих команд:
 
 ```shell
-git clone https://github.com/liligga/python40-bot.git
-cd python40-bot
+git clone https://github.com/liligga/some-python-bot.git
+cd some-python-bot
 git remote remove origin
 ```
 
